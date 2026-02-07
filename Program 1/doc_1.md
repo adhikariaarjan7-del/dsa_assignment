@@ -1,4 +1,4 @@
-# Documentation - Balanced Parentheses Checker
+# Documentation 
 
 (a) Data Structures Defined
 
@@ -73,3 +73,4 @@ Balanced
 Output sample
 .<img width="885" height="272" alt="Screenshot 2026-02-07 113736" src="https://github.com/user-attachments/assets/2b7d235c-8ef3-49bd-ad67-c31a460f5001" />
 .<img width="852" height="98" alt="Screenshot 2026-02-07 114935" src="https://github.com/user-attachments/assets/db7f87d7-e77b-4261-857b-e74241cc6c75" />
+
