@@ -74,8 +74,9 @@ Display traversal order
 3. DFS Traversal
 
 Reset visited array
-Call DFS function starting  vertex 0
+Call DFS function starting from vertex 0
 Display traversal order
 
-Output sample 
-1)<img width="190" height="124" alt="image" src="https://github.com/user-attachments/assets/d246dbfe-84d2-4b5b-bdbb-0a15d0fa2320" />
+Output Sample
+1)<img width="379" height="247" alt="Screenshot 2026-02-09 000558" src="https://github.com/user-attachments/assets/dfdc5f1c-cfa5-4310-a2bc-1759fe081da7" />
+
