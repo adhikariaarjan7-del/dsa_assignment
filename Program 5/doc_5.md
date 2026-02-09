@@ -1,8 +1,10 @@
 Documentation: Graph Traversal using BFS and DFS
-Program Overview
+
+Program Overview<br>
+
 This program implements an undirected graph using adjacency matrix and performs both BFS (Breadth First Search) and DFS (Depth First Search) traversal techniques.
 
-Data Structures
+Data Structures<br>
 1. Adjacency Matrix (graph[MAX][MAX])
 
 2D array representing the graph
@@ -17,9 +19,9 @@ Value 0 means unvisited, 1 means visited
 3. Queue Array (queue[MAX])
 
 Used for BFS traversal
-front and rear pointers manage the queue
+front and rear pointers manage the queue<br>
 
-4. Variable n
+4. Variable n<br>
 
 Stores total number of vertices
 
@@ -79,4 +81,5 @@ Display traversal order
 
 Output Sample
 1)<img width="379" height="247" alt="Screenshot 2026-02-09 000558" src="https://github.com/user-attachments/assets/dfdc5f1c-cfa5-4310-a2bc-1759fe081da7" />
+
 
